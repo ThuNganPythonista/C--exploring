@@ -1,0 +1,14 @@
+/Users/phamngocngan/Documents/C#-exploring/HelloWorld/bin/Debug/net8.0/HelloWorld
+/Users/phamngocngan/Documents/C#-exploring/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/Users/phamngocngan/Documents/C#-exploring/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/Users/phamngocngan/Documents/C#-exploring/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/Users/phamngocngan/Documents/C#-exploring/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/Users/phamngocngan/Documents/C#-exploring/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phamngocngan/Documents/C#-exploring/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/phamngocngan/Documents/C#-exploring/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/Users/phamngocngan/Documents/C#-exploring/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/phamngocngan/Documents/C#-exploring/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/Users/phamngocngan/Documents/C#-exploring/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/Users/phamngocngan/Documents/C#-exploring/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/Users/phamngocngan/Documents/C#-exploring/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/Users/phamngocngan/Documents/C#-exploring/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll
