@@ -25,3 +25,11 @@ using System.Linq; // các thao tác truy vấn trên dữ liệu
 using System.Text; // làm việc với chuỗi văn bản
 using System.Threading.Tasks; // async tasks
 ```
+
+**Namespace**:
+
+Nó nhóm các thành phần của chương trình thành từng namespace. Từ đó dùng `using` để truy cập nhanh cái thành phần đó trong namespace. Giúp tổ chức mã nguồn dễ hơn, giảm xung đột tên giữa các thành phần trong chương trình.
+
+**Main**:
+
+Một cái chương trình khi bắt đầu nó phải có cái root, là nơi khởi đầu vòng đời của chương trình đó. Thì main là nơi bắt đầu, chúng ta sẽ viết code bên trong {}.
