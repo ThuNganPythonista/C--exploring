@@ -34,4 +34,4 @@ Nó nhóm các thành phần của chương trình thành từng namespace. Từ
 
 Một cái chương trình khi bắt đầu nó phải có cái root, là nơi khởi đầu vòng đời của chương trình đó. Thì main là nơi bắt đầu, chúng ta sẽ viết code bên trong {}.
 
-[**Lesson1: Nhập xuất cơ bản:**](/Users/phamngocngan/Documents/C#-exploring/HelloWorld/Console/README.md)
+[**Lesson1: Nhập xuất cơ bản:**](https://github.com/ThuNganPythonista/C--exploring/tree/main/Console)
